@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.ToDoItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.todoButton1 {
+  background-color: #0b69ff;
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  border-width: 0px;
+  color: #ffffff;
+  margin-right: 30px;
+}
+.todoHeading1 {
+  color: rebeccapurple;
+  font-size: 20px;
+  font-weight: bold;
+}
